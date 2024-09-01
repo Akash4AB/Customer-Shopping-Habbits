@@ -1,4 +1,4 @@
-# Customer Shopping Habits Prediction
+# Purchase Prediction App
 
 This project uses a machine learning model to predict customer purchase amounts based on various features.
 
